@@ -1,0 +1,8 @@
+RENCANA KONTEN TBFAJRI
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Frameworks
+- Interview
+- membuat vlog
