@@ -3,11 +3,13 @@ RENCANA KONTEN TBFAJRI
 - Javascript
   * ES6
   * Framework Javascript
+
     ^Vue
     ^React
 - Struktur Data Dasar
 - PHP Frameworks
    ^Laravel
+
 - Interview
 - membuat vlog
 - Phyton
