@@ -3,7 +3,8 @@ RENCANA KONTEN TBFAJRI
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ˆangular
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - membuat vlog
